@@ -1,2 +1,2 @@
-# exercicephp---suite
-exercicephp - suite
+# exercice-php
+Premiers tests
